@@ -7,6 +7,7 @@ In this project, following topics were covered:
 - Responsiveness for different display sizes
 - HTML
 - media queries and variables, root
+- float
 
 
 The template website can be reached at following link: https://hho-1.github.io/bootstrap-website-template/
